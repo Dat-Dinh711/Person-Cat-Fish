@@ -1,0 +1,14 @@
+{
+  "name": "review-git",
+  "version": "1.0.0",
+  "description": "This is project to review git",
+  "main": "Cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
